@@ -6,7 +6,7 @@ This simple note taking application allows the user to write, save and delete no
 
 ## Deployment
 
-[Note Taker](https://)
+[Note Taker](https://rocky-journey-38809.herokuapp.com/)
 
 ![](public/assets/images/noteTaker.gif)
 
